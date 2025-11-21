@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%92%BB+Abdelrahman+Ahmed;Data+Scientist+%7C+AI+Engineer;Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+ML" alt="Typing Animation (Pixel outline)" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+</p>
 
 
 ---

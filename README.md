@@ -66,16 +66,16 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodyahmedd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodyahmedd&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-ahmed10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-ahmed10&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bodyahmedd&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=abdelrahman-ahmed10&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bodyahmedd&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-ahmed10&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 
@@ -97,4 +97,4 @@
  
 ---
 
-⭐ From [Abdelrahman Ahmed](https://github.com/bodyahmedd)
+⭐ From [Abdelrahman Ahmed](https://github.com/abdelrahman-ahmed10)

@@ -13,8 +13,6 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
 
 **Data Visualization & Dashboards:** Experienced in creating interactive dashboards and visualizations using Python (Matplotlib, Seaborn, Plotly), Power BI, and Excel.
 
-**Projects & Tools:** Worked on Titanic Survival Prediction, Heart Disease Analysis, Customer Segmentation, FIFA Players Analysis, Cancer Classification, and Sales & Churn Analysis using Jupyter Notebook, Google Colab, GitHub, Excel, and Power BI.
-
 ---
 
 ## 🧠 Core Data Science Skills  

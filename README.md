@@ -58,6 +58,7 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3f4f75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -67,6 +68,7 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" style="margin:6px;" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" height="48" style="margin:6px;" title="Java"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/R_logo.svg" width="48" height="48" style="margin:6px;" title="R"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" style="margin:6px;" title="HTML"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" style="margin:6px;" title="CSS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" style="margin:6px;" title="SQL"/>
@@ -77,6 +79,7 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" style="margin:6px;" title="Scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" style="margin:6px;" title="Jupyter Notebook"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" style="margin:6px;" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="48" height="48" style="margin:6px;" title="Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" style="margin:6px;" title="VS Code"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" style="margin:6px;" title="Git"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" style="margin:6px;" title="GitHub"/>

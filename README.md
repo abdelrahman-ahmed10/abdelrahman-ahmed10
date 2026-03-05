@@ -1,10 +1,9 @@
 <h1 align="left">👋Hi there</h1>
 
-## 👨‍💻 About Me  
 I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R, and machine learning, with strong skills in data analysis, visualization, and building predictive models. I am proficient in tools and technologies such as Pandas, Scikit-learn, Power BI, and relational databases, and I have gained hands-on experience through various academic and independent data science projects.
 
 ---
-Expertise
+## Expertise
 **Programming & Data Analysis:** Experienced in Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels) and SQL, with strong skills in data cleaning, preprocessing, exploratory data analysis, and handling missing data and outliers.
 
 **Statistical & Machine Learning Skills:** Proficient in hypothesis testing, correlation analysis, regression (linear, polynomial, logistic), supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), feature selection, model evaluation, tuning, and ensemble methods.

@@ -22,6 +22,7 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ### 📐 Mathematics & Statistics
@@ -68,7 +69,7 @@ I'm Abdelrahman Ahmed, a Data Science professional experienced in Python, SQL, R
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" style="margin:6px;" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" height="48" style="margin:6px;" title="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/R_logo.svg" width="48" height="48" style="margin:6px;" title="R"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="48" height="48" style="margin:6px;" title="R"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" style="margin:6px;" title="HTML"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" style="margin:6px;" title="CSS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" style="margin:6px;" title="SQL"/>
